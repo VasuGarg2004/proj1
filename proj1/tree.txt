@@ -1,0 +1,42 @@
+{
+    'attribute': 'odor', 
+    'n': {
+            'attribute': 'spore-print-color', 
+            'n': {'class': 'e'}, 
+            'w': 
+                {
+                    'attribute': 'habitat', 
+                    'd': 
+                        {
+                            'attribute': 'gill-size', 
+                            'b': {'class': 'e'}, 
+                            'n': {'class': 'p'}
+                        }, 
+                    'g': {'class': 'e'}, 
+                    'l': 
+                        {
+                            'attribute': 'cap-color', 
+                            'n': {'class': 'e'}, 
+                            'w': {'class': 'p'}, 
+                            'y': {'class': 'p'}, 
+                            'c': {'class': 'e'}
+                        }, 
+                    'p': {'class': 'e'}, 
+                    'w': {'class': 'e'}
+                }, 
+            'k': {'class': 'e'}, 
+            'y': {'class': 'e'}, 
+            'h': {'class': 'e'}, 
+            'r': {'class': 'p'}, 
+            'b': {'class': 'e'}, 
+            'o': {'class': 'e'}
+        }, 
+    'y': {'class': 'p'}, 
+    'c': {'class': 'p'}, 
+    'p': {'class': 'p'}, 
+    's': {'class': 'p'}, 
+    'f': {'class': 'p'}, 
+    'a': {'class': 'e'}, 
+    'l': {'class': 'e'}, 
+    'm': {'class': 'p'}
+}
